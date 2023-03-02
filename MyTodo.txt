@@ -1,0 +1,1 @@
+{'2023-02-28': [{'horayminuto': '10:30', 'titulo': 'evento1', 'detalle': 'detalle del evento1\n'}, {'horayminuto': '11:30', 'titulo': 'evento2', 'detalle': 'detalle del evento2\n'}]}

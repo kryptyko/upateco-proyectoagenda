@@ -1,0 +1,40 @@
+{
+    "eventos": [
+        {
+            "titulo": "evento1",
+            "fecha_hora": "1977-03-23T10:00:00",
+            "duracion": 180.0,
+            "descripcion": "ref1",
+            "importancia": "Normal",
+            "fecha_hora_recordatorio": "2023-02-23T09:00:00",
+            "etiquetas": [
+                "reuni\u00f3n",
+                "equipo"
+            ]
+        },
+        {
+            "titulo": "evento2",
+            "fecha_hora": "1977-03-24T10:00:00",
+            "duracion": 180.0,
+            "descripcion": "refrerencia2",
+            "importancia": "Normal",
+            "fecha_hora_recordatorio": "2023-02-23T09:00:00",
+            "etiquetas": [
+                "reuni\u00f3n",
+                "equipo"
+            ]
+        },
+        {
+            "titulo": "evento3",
+            "fecha_hora": "1977-03-23T23:00:00",
+            "duracion": 60.0,
+            "descripcion": "referencia3",
+            "importancia": "Normal",
+            "fecha_hora_recordatorio": "2023-02-23T09:00:00",
+            "etiquetas": [
+                "reuni\u00f3n",
+                "equipo"
+            ]
+        }
+    ]
+}
