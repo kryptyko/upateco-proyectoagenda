@@ -1,0 +1,4 @@
+id,fecha,hora,duracion,titulo,importancia,criterios,detalle
+0,12/03/2023,10:00,1 hora,evento1,Alta,Reunión de trabajo,Presentación del proyecto
+1,15/03/2023,14:00,2 horas,evento2,Alta,Entrevista de trabajo,Conocer al equipo
+2,18/03/2023,16:00,3 horas,evento3,Alta,Cita médica,Chequeo anual
